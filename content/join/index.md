@@ -3,7 +3,7 @@
 We aim to establish a successful research and mentoring program that will promote equity, inclusion, and diversity. 
 
 
-# Ongoing Opportunities
+# Opportunities
 
 
 ### Postdoctoral scholar
