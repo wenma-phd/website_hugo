@@ -1,6 +1,6 @@
 # <i class="fas fa-hands-helping"></i>Join our team
 
-We foster a research environment that promotes equity, inclusion, and diversity. 
+We foster a research environment that promotes equity, inclusion, and diversity. We are always on the lookout for enthusiastic researchers and new perspectives.
 
 
 ### Postdoctoral scholar
