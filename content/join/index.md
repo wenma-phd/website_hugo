@@ -2,7 +2,6 @@
 
 We aim to establish a successful research and mentoring program that will promote equity, inclusion, and diversity. 
 
-{% include section.html %}
 
 # Ongoing Opportunities
 
