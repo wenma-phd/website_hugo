@@ -3,9 +3,6 @@
 We aim to establish a successful research and mentoring program that will promote equity, inclusion, and diversity. 
 
 
-# Opportunities
-
-
 ### Postdoctoral scholar
 We are currently seeking highly motivated postdoctoral scholars to join our team!
 
