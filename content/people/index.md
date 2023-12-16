@@ -4,8 +4,9 @@ date: 2022-10-24
 
 type: landing
 
+<i class="fas fa-users"></i>
 sections:
-  - block: <i class="fas fa-users"></i>People
+  - block: People
     content:
       title: Meet the Team
       # Choose which groups/teams of users to display.
