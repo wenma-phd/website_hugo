@@ -1,11 +1,4 @@
----
-title: Latest News
 
-# Listing view
-view: compact
+# <i class="fas fa-chalkboard-teacher"></i>teaching
 
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
----
+Computational Physics II (PHYS 5990 Section B, CRN 15072)
