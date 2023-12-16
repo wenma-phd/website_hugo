@@ -1,7 +1,6 @@
 
-# <i class="fas fa-chalkboard-teacher"></i>teaching
+# <i class="fas fa-chalkboard-teacher"></i> Teaching
 
 Computational Physics II (PHYS 5990 Section B, CRN 15072)
-- icon: course flyer
-   icon_pack: ai
-   link: files/PHYS_5990_B_flyer.pdf
+<a href="files/PHYS_5990_B_flyer.pdf" target="_blank">Course Flyer</a>
+

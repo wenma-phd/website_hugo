@@ -64,4 +64,4 @@ user_groups:
   - Principal Investigators
 ---
 
-The Ma Group integrates physics, molecular simulations, and machine learning to study biological processes from molecular level to systems scale. 
+Dr. Wen Ma is interested to integrate physics, molecular simulations, and machine learning to study biological processes from molecular level to systems scale. 
