@@ -1,31 +1,24 @@
 # <i class="fas fa-hands-helping"></i>Join our team
 
-We are focused on assembling a diverse, inclusive, and interdisciplinary group of scientists. Dr. Xie is devoted to offering direct, practical training while gradually nurturing intellectual independence. Mentorship is customized to suit the unique needs of each individual.
+We aim to establish a successful research and mentoring program that will promote equity, inclusion, and diversity. 
 
 {% include section.html %}
-
 
 # Ongoing Opportunities
 
 
-### Graduate student
-Please apply for the [PhD program](https://graduateeducation.pharmacy.ufl.edu/prospective-students/application-process/) for Medicinal Chemistry at the College of Pharmacy (Fall 2024). Several positions are available. While the department commences the review of applications in December 2023, we will keep accepting submissions until all positions are filled.
-
-We offer full scholarships for all positions, and there is no need for students to take up TA positions. GRE is not necessary.
-
-We welcome students for both **computational and wet-lab** research positions.
-
-If you are interested in our research, please reach out to [wenjunxie@ufl.edu](mailto:wenjunxie@ufl.edu).
-
 ### Postdoctoral scholar
-We are constantly seeking highly motivated computational postdocs to join our team!
+We are currently seeking highly motivated postdoctoral scholars to join our team!
 
-We are also partnering with the biosynthesis group at UF to recruit a postdoc with expertise in bioinformatics or machine learning!
+If you are interested in our research, you are encouraged to send an inquiry along with your CV to [wen.ma@uvm.edu](mailto:wen.ma@uvm.edu).
 
-In addition to our team, our department has multiple computational postdoc positions available, spanning fields from computer science to AI drug discovery.
 
-If you are interested in our research, you are encouraged to send an inquiry and CV to [wenjunxie@ufl.edu](mailto:wenjunxie@ufl.edu).
+### Graduate student
+We welcome students from diverse background (physics, biophysics, bioengineering, computer science) to join our group!
+
+If you are interested in joining our group, please reach out to [wen.ma@uvm.edu](mailto:wen.ma@uvm.edu)
 
 ### Undergraduate student
-We welcome undergraduate students from various backgrounds to join us to explore exciting science.
+We welcome undergraduate students to join us, especially those who want to apply physics and machine learning to study life science!
+
 
