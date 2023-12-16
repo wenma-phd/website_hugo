@@ -1,6 +1,6 @@
 # <i class="fas fa-hands-helping"></i>Join our team
 
-We aim to establish a successful research and mentoring program that will promote equity, inclusion, and diversity. 
+We foster a research environment that promotes equity, inclusion, and diversity. 
 
 
 ### Postdoctoral scholar
