@@ -13,8 +13,9 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Our research lab focuses on developing theoretical and computational methods to study biological processes at different temporal and spatial scales. 
+        We integrate physics, molecular simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. 
+
   
   - block: collection
     content:
