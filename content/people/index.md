@@ -1,4 +1,4 @@
-<i class="fas fa-users"></i>
+# <i class="fas fa-users"></i>
 
 ---
 title: People
