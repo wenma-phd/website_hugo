@@ -43,9 +43,9 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: '© 2024 The Ma Lab'
+#footer:
+#  copyright:
+#    notice: '© 2024 The Ma Lab'
 #    notice: '© {year} Me. This work is licensed under {license}'
 #    license:
 #      enable: true
