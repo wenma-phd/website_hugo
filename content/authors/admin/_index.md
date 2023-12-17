@@ -62,6 +62,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
+
 ---
 
 Dr. Wen Ma integrates physics, molecular simulations, and machine learning to study biological processes from molecular level to systems scale. 
