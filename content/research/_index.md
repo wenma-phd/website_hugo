@@ -5,8 +5,8 @@ sections:
     id: proj1
     content:
       title: research
-      text:
-        {{< figure src="image.jpg" caption="A caption" numbered="true" >}}
+      text: |
+        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
         gallery_item:
          - album: assets/media/album/
            image: coders.jpg
