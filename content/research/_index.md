@@ -1,20 +1,19 @@
 ---
 
-gallery_item:
-  - album: assets/media/album/
-    image: coders.jpg
-    caption: Write your image 1 caption here
-  - album: assets/media/album/
-    image: contact.jpg
-    caption: Write your image 2 caption here
-
-
-
 sections:
-  - block: portfolio
-    id: research
+  - block: markdown
+    id: proj1
     content:
       title: research
+      text:
+        gallery_item:
+         - album: assets/media/album/
+           image: coders.jpg
+           caption: Write your image 1 caption here
+         - album: assets/media/album/
+           image: contact.jpg
+           caption: Write your image 2 caption here
+
       #filters:
       #  folders:
       #    - project
