@@ -68,6 +68,6 @@ user_groups:
 
 ---
 
-Dr. Wen Ma integrates physics, molecular simulations, and machine learning to study biological processes from molecular level to systems scale. 
+Dr. Wen Ma integrates physics, molecular simulations, and machine learning to study biological processes from molecular level to systems scale. He completed his postdoctoral training with Professor J Andrew McCammon at UCSD.
 
 
