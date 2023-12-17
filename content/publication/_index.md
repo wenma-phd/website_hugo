@@ -1,5 +1,6 @@
+# <i class="fas fa-file-signature"></i>Publications
+
 ---
-# <i class="fas fa-file-signature"></i> Publications
 
 # Listing view
 view: citation
