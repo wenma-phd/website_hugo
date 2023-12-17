@@ -1,10 +1,9 @@
 ---
+# <i class="fas fa-hands-helping"></i>
 ---
 
-<div align="center">
-# <i class="fas fa-hands-helping"></i>
 # Join our team
-</div>
+
 
 We foster a research environment that promotes equity, inclusion, and diversity. We are always on the lookout for enthusiastic students and researchers, as well as new perspectives.
 

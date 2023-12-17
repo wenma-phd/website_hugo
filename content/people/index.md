@@ -23,9 +23,11 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+#<div align="center">
+# <i class="fas fa-users"></i>
+#</div>
 ---
 
-<div align="center">
-    <i class="fas fa-users"></i>
-</div>
+    
+
 
