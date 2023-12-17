@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Biophysical theory and computation
+bio: Biophysical theory and computation.
 
 interests:
   - Computational Biology
@@ -53,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+#email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
