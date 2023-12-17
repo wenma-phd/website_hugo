@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wen Ma
+title: Wen_Ma
 
 # Full Name (for SEO)
 first_name: Wen
