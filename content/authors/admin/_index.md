@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr.
+title: Wen Ma
 
 # Full Name (for SEO)
 first_name: Wen
@@ -64,6 +64,6 @@ user_groups:
   - Principal Investigators
 ---
 
-Dr. Wen Ma is interested to integrate physics, molecular simulations, and machine learning to study biological processes from molecular level to systems scale. 
+Dr. Wen Ma integrates physics, molecular simulations, and machine learning to study biological processes from molecular level to systems scale. 
 
 
