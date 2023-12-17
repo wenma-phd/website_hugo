@@ -48,7 +48,7 @@ footer:
     notice: '© 2024 The Ma Lab'
 #    notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: false
       allow_commercial: false
