@@ -1,10 +1,10 @@
+<i class="fas fa-users"></i>
+
 ---
 title: People
 date: 2023-12-16
 
 type: landing
-
-<i class="fas fa-users"></i>
 
 sections:
   - block: People
