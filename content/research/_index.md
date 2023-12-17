@@ -1,10 +1,10 @@
 ---
 
 gallery_item:
-  - album: assets/media/album
+  - album: assets/media/album/
     image: coders.jpg
     caption: Write your image 1 caption here
-  - album: assets/media/album
+  - album: assets/media/album/
     image: contact.jpg
     caption: Write your image 2 caption here
 
