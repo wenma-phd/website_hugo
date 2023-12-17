@@ -7,7 +7,7 @@ first_name: Wen
 last_name: Ma
 
 # Is this the primary user of the site?
-superuser: true
+#superuser: true
 
 # Role/position
 role: Assistant Professor
