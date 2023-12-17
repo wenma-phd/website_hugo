@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Biophysical theory and computation.
+bio: Biophysical theory and computation
 
 interests:
   - Computational Biology
