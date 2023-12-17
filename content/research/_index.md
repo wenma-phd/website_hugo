@@ -1,7 +1,7 @@
 ---
 
 sections:
-- block: portfolio
+  - block: portfolio
     id: research
     content:
       title: research
