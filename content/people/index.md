@@ -25,4 +25,7 @@ sections:
       show_social: true
 ---
 
-# <i class="fas fa-users"></i>
+<div align="center">
+    <i class="fas fa-users"></i>
+</div>
+
