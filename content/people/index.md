@@ -1,5 +1,3 @@
-# <i class="fas fa-users"></i>
-
 ---
 title: People
 date: 2023-12-16
@@ -26,3 +24,5 @@ sections:
       show_role: true
       show_social: true
 ---
+
+# <i class="fas fa-users"></i>
