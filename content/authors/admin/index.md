@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 'Wen Ma'
+title: 'Prof. Wen Ma'
 
 # Full Name (for SEO)
 first_name: Wen
@@ -25,6 +25,7 @@ interests:
   - Machine Learning
   - Statistical Mechanics
   - Structural Biology
+  - Computer-aided drug discovery
 
 education:
   courses:
