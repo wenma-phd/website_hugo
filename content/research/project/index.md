@@ -1,5 +1,5 @@
 ---
-title: project
+title: Research
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
