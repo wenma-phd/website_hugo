@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Prof Wen Ma"
+title: "Prof. Wen Ma"
 
 # Full Name (for SEO)
 first_name: Wen
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+    - course: Postdoctoral Scholar with Dr. J Andrew McCammon
+      institution: University of California San Diego
+      year: 2018-2023
     - course: PhD in Biophysics and Computational Biology
       institution: University of Illinois at Urbana-Champaign
       year: 2017

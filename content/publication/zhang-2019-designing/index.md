@@ -3,10 +3,10 @@ title: Designing a green fluorogenic protease reporter by flipping a beta strand
   GFP for imaging apoptosis in animals
 authors:
 - Qiang Zhang
-- "Antonino Schepis *"
-- "Hai Huang *"
-- "Junjiao Yang *"
-- "Wen Ma *"
+- "Antonino Schepis"
+- "Hai Huang"
+- "Junjiao Yang"
+- "Wen Ma"
 - Joaquim Torra
 - Shao-Qing Zhang
 - Lina Yang
