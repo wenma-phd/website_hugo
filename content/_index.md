@@ -18,7 +18,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: research
       subtitle:
       text:
       count: 5

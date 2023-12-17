@@ -1,8 +1,10 @@
 ---
-#- block: portfolio
-    id: Research
+
+sections:
+- block: portfolio
+    id: research
     content:
-      title: Research
+      title: research
       filters:
         folders:
           - project
