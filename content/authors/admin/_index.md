@@ -69,6 +69,7 @@ user_groups:
 
 ---
 
-Dr. Wen Ma integrates physics, molecular simulations, and machine learning to study biological processes from molecular level to systems scale. He completed his postdoctoral training with Professor J Andrew McCammon at UCSD.
+Dr. Wen Ma is an Assistant Professor of Physics at the University of Vermont. He is also an affiliate professor in the Department of Molecular Physiology and Biophysics. 
+He recieved his PhD from University of Illinois with Prof. Klaus Schulten and completed his postdoctoral training with Prof. J Andrew McCammon at UCSD.
 
 

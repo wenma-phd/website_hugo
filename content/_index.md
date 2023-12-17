@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Ma Group
+        Ma Lab
       image:
         filename: welcome.jpg
       text: |
@@ -19,7 +19,7 @@ sections:
   
   - block: collection
     content:
-      title: research
+      title: News
       subtitle:
       text:
       count: 5
