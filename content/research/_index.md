@@ -52,4 +52,16 @@ sections:
 
 ---
 
-{{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+{{< figure src="coders.jpg" caption="" numbered="false" >}}
+
+{% capture text %}
+test
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/enzyme-theory.png"
+  headline=""
+  text=text
+%}
