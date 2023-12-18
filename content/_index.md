@@ -8,9 +8,9 @@ sections:
   - block: slider
     content:
       slides:
-      - title: test
+      - title: Ma Lab
         content: 
-        align: right
+        align: center
         background:
           image:
             filename: model_scales.png
@@ -18,22 +18,12 @@ sections:
               brightness: 0.7
             #class: "custom-image-size" 
           position: right
-      - title: Lunch & Learn ☕️
-        content: 
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '400px'
+      slide_height: '300px'
       is_fullscreen: false
       # Automatically transition through slides?
-      loop: yes
+      loop: no
       # Duration of transition between slides (in ms)
       interval: 5000
   - block: hero
