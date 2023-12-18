@@ -1,16 +1,13 @@
 ---
 Title: Research
 
-gallery_item:
-       - album: assets/media/album/
-         image: coders.jpg
-         caption: Write your image 1 caption here
-       - album: assets/media/album/
-         image: contact.jpg
-         caption: Write your image 2 caption here
+#gallery_item:
+#   - album: assets/media/album/
+#       image: coders.jpg
+#       caption: Write your image 1 caption here
 
 # Listing view
-#view: showcase
+view: 5
 #flip_alt_rows: false
 
 # Optional banner image (relative to `assets/media/` folder).
