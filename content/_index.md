@@ -9,7 +9,11 @@ sections:
     content:
       slides:
       - title: Ma Lab
-        content: Theory · Computation · Biophysics
+        content: |
+            <div style="text-align: center;">
+              <hr style="width: 50px; border-top: 3px solid orange; margin: 10px auto;" />
+              Theory · Computation · Biophysics
+            </div>
         align: center
         background:
           image:
@@ -20,7 +24,7 @@ sections:
           position: right
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '300px'
+      slide_height: '350px'
       is_fullscreen: false
       # Automatically transition through slides?
       loop: no
