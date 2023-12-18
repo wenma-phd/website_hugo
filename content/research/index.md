@@ -2,13 +2,13 @@
 Title: Research
 
 # Listing view
-view: showcase
-flip_alt_rows: false
+#view: showcase
+#flip_alt_rows: false
 
 # Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+#banner:
+#  caption: ''
+#  image: ''
 
 
 sections:
@@ -16,8 +16,9 @@ sections:
     #id: proj1
     content:
       title: research
-      #text: |
-      #  {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+      text: |
+        test
+        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
       #  gallery_item:
       #   - album: assets/media/album/
       #     image: coders.jpg
