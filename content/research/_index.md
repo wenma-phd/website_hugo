@@ -52,7 +52,11 @@ sections:
 
 ---
 
-{{< figure src="coders.jpg" width="400px" height="auto" caption="" numbered="false" class="align-left" >}}
-<div style="margin-left: 30px;">
-  <p>Your description here</p>
+<div style="display: flex; align-items: center;">
+  {{< figure src="coders.jpg" width="400px" height="auto" caption="" numbered="false" class="align-left" >}}
+
+  <div style="margin-left: 30px;">
+    <p>Your description here</p>
+  </div>
 </div>
+
