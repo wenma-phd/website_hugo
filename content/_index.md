@@ -14,8 +14,10 @@ sections:
         background:
           image:
             filename: model_scales.png
+            filters:
+              brightness: 0.7
             #class: "custom-image-size" 
-            position: right
+          position: right
   - block: hero
     content:
       title: 
