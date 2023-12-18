@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the Ma Lab
+        content: 
         align: center
         background:
           image:
@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: 
         align: left
         background:
           image:
@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+        content:
         align: right
         background:
           image:
@@ -40,10 +40,10 @@ sections:
           color: '#333'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
+      slide_height: '300px'
+      is_fullscreen: false
       # Automatically transition through slides?
-      loop: false
+      loop: yes
       # Duration of transition between slides (in ms)
       interval: 2000
   - block: markdown

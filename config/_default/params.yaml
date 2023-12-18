@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  #theme_day: minimal
-  #theme_night:
-  theme_default: dark
+  theme_day: minimal
+  theme_night:
+  #theme_default: dark
   font: native
   font_size: L
 
