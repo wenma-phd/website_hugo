@@ -9,6 +9,9 @@ authors:
 - Steve Silletti
 - J Andrew McCammon
 - "Susan Taylor"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2023-01-01'
 publishDate: '2023-12-16T20:25:56.265523Z'
 publication_types:
