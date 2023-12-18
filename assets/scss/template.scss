@@ -12,6 +12,11 @@
   max-width: 400px; /* Adjust the value as needed */
   margin: 0 auto; /* This centers the block */
 }
+.custom-image-size {
+  max-width: 100%; /* Ensures image is responsive and fits the container */
+  height: auto; /* Maintains aspect ratio */
+  /* Add other properties as needed */
+}
 
 .align-left {
   float: left;

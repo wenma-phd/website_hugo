@@ -14,6 +14,7 @@ sections:
         background:
           image:
             filename: model_scales.png
+            class: "custom-image-size" 
             filters:
               brightness: 1
           position: right
