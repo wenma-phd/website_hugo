@@ -1,11 +1,6 @@
 ---
 Title: Research
 
-#gallery_item:
-#   - album: assets/media/album/
-#       image: coders.jpg
-#       caption: Write your image 1 caption here
-
 # Listing view
 #view: 3
 #flip_alt_rows: false
@@ -22,8 +17,8 @@ sections:
     content:
       title: research
       text: |
-        test
-        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+      #  test
+      #  {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
 
       #filters:
       #  folders:
@@ -49,8 +44,8 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-
 ---
+
 # Proj1
 <div style="display: flex; align-items: center;">
     <div>
