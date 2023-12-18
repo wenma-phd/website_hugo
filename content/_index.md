@@ -40,18 +40,17 @@ sections:
           color: '#333'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '300px'
+      slide_height: '400px'
       is_fullscreen: false
       # Automatically transition through slides?
       loop: yes
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 5000
   - block: markdown
     content:
-      title: |
-        Ma Lab
-      image:
-        filename: welcome.jpg
+      title: 
+      #image:
+      #  filename: welcome.jpg
       text: |
         <br>
         Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. 
