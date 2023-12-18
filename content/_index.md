@@ -10,11 +10,8 @@ sections:
       slides:
       - title: 
         content: 
-        align: center
-        image:
-            filename: model_scales.png
-            class: "custom-image-size" 
-            position: right
+        align: right
+        image: model_scales.png
       - title: Lunch & Learn ☕️
         content: 
         align: left
