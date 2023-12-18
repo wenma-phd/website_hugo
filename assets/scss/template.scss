@@ -8,6 +8,11 @@
   justify-content: center;
 }
 
+.markdown-block {
+  max-width: 600px; /* Adjust the value as needed */
+  margin: 0 auto; /* This centers the block */
+}
+
 .align-left {
   float: left;
   margin-left: auto;

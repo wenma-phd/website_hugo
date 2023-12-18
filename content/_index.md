@@ -9,12 +9,13 @@ sections:
     content:
       title: |
         Ma Lab
-      image:
-        filename: welcome.jpg
+      #image:
+      #  filename: welcome.jpg
       text: |
         <br>
         Our research lab focuses on developing theoretical and computational methods to study biological processes at different temporal and spatial scales. 
         We integrate physics, molecular simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. 
+        We strive to build a diverse team with different backgrounds and expertise.
     design:
       background:
           image:
@@ -31,7 +32,7 @@ sections:
               # Use a fun parallax-like fixed background effect on desktop? true/false
               parallax: true
               # Text color (true=light, false=dark, or remove for the dynamic theme color).
-              text_color_light: true
+              text_color_light: false
   
   - block: collection
     content:
