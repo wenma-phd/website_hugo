@@ -16,20 +16,14 @@ sections:
             filename: model_scales.png
             #class: "custom-image-size" 
             position: right
-  - block: hero
+  - block: cta-image-paragraph
     content:
       title: 
-      #image:
-      #  filename: model_scales.png
+      image:
+        filename: model_scales.png
       #text: |
       #  👋 Welcome
-      primary_action:
-        text: | 
-          👋 Welcome
-        image: model_scales.png
-        icon: sparkles
-      secondary_action:
-        text: |
+      text: |
           Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. We integrate physics, molecular simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. We strive to build a diverse team, bringing together a wide range of backgrounds and expertise.
  
 
