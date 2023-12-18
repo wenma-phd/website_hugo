@@ -7,7 +7,7 @@ Title: Research
 #       caption: Write your image 1 caption here
 
 # Listing view
-view: 5
+view: 4
 #flip_alt_rows: false
 
 # Optional banner image (relative to `assets/media/` folder).
