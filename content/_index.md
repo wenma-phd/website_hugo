@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Ma Lab
-        content: 
+        content: Theory · Computation · Biophysics
         align: center
         background:
           image:
