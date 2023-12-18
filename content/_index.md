@@ -8,16 +8,16 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the Ma Lab
+      - title: 
         content: 
         align: center
         background:
           image:
             filename: model_scales.png
             filters:
-              brightness: 0.7
+              brightness: 1
           position: right
-          color: '#666'
+          #color: '#666'
       - title: Lunch & Learn ☕️
         content: 
         align: left
@@ -52,6 +52,7 @@ sections:
       #image:
       #  filename: welcome.jpg
       text: |
+        👋 Welcome to the Ma Lab
         Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. 
         We integrate physics, molecular simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. 
         We strive to build a diverse team, bringing together a wide range of backgrounds and expertise.
