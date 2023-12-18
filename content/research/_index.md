@@ -73,9 +73,7 @@ sections:
     </div>
 </div>
 
-<div style="margin-bottom: 50px;"></div>
 
-# Proj3
 <div style="display: flex; align-items: center;">
     <div>
         {{< figure src="coders.jpg" width="500px" height="auto" caption="" numbered="false" >}}
