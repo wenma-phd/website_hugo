@@ -1,3 +1,36 @@
+---
+# Leave the homepage title empty to use the site title
+#title:
+#date: 2022-10-24
+#type: landing
+
+
+sections:
+  - block: slider
+    content:
+      slides:
+      - title: 
+        content: 
+        align: right
+        background:
+          image:
+            filename: model_scales.png
+            class: "custom-image-size" 
+            position: right
+  - block: hero
+    content:
+      title: 
+      image:
+        filename: model_scales.png
+      text: |
+        👋 Welcome
+
+        Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. 
+        We integrate physics, molecular simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. 
+        We strive to build a diverse team, bringing together a wide range of backgrounds and expertise.
+ 
+
+---
 
 <div style="display: flex; align-items: center;">
     <div>
