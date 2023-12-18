@@ -52,7 +52,7 @@ sections:
 
 ---
 
-{{< figure src="coders.jpg" caption="" numbered="false" >}}
+{{< figure src="coders.jpg" width="300px" height="auto" caption="" numbered="false" >}}
 
 {% capture text %}
 test
