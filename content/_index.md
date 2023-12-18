@@ -15,7 +15,7 @@ sections:
           image:
             filename: model_scales.png
             #class: "custom-image-size" 
-            #position: right
+            position: right
   - block: hero
     content:
       title: 
