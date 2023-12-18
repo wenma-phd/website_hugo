@@ -38,7 +38,10 @@ sections:
     content:
       title: News
       subtitle:
-      text:
+      text: |
+        test1,Jan
+        test2,Jan
+        test3,Mar
       count: 5
       filters:
         author: ''
