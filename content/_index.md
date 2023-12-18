@@ -17,7 +17,7 @@ sections:
             filters:
               brightness: 0.7
             #class: "custom-image-size" 
-          position: right
+          position: center
   - block: hero
     content:
       title: 
