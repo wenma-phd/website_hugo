@@ -52,16 +52,5 @@ sections:
 
 ---
 
-{{< figure src="coders.jpg" width="300px" height="auto" caption="" numbered="false" >}}
-
-{% capture text %}
-test
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/research/enzyme-theory.png"
-  headline=""
-  text=text
-%}
+{{< figure src="coders.jpg" width="300px" height="auto" caption="" numbered="false" style="float: left; margin-right: 10px;" >}}
+### test
