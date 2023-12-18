@@ -53,6 +53,6 @@ sections:
 ---
 
 {{< figure src="coders.jpg" width="400px" height="auto" caption="" numbered="false" class="align-left" >}}
-<div style="margin-left: 20px;">
+<div style="margin-left: 30px;">
   <p>Your description here</p>
 </div>
