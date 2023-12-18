@@ -11,9 +11,9 @@ sections:
       - title: Ma Lab
         content: |
             <div style="text-align: center;">
+              <div style="color: white;"> Theory · Computation · Biophysics </div>
               <hr style="width: 50px; border-top: 4px solid orange; margin: 10px auto;" />
             </div>
-            Theory · Computation · Biophysics
         align: center
         background:
           image:
@@ -30,7 +30,7 @@ sections:
       loop: no
       # Duration of transition between slides (in ms)
       interval: 5000
-  - block: hero
+  - block: markdown
     content:
       title: 
       #image:
