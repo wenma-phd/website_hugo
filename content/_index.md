@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 
+      - title: test
         content: 
         align: right
         background:
@@ -18,6 +18,16 @@ sections:
               brightness: 0.7
             #class: "custom-image-size" 
           position: center
+      - title: Lunch & Learn ☕️
+        content: 
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
   - block: hero
     content:
       title: 
