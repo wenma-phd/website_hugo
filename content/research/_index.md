@@ -2,6 +2,7 @@
 Title: Research
 
 # Listing view
+columns: '1'
 view: showcase
 flip_alt_rows: false
 
