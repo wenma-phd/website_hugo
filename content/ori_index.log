@@ -8,14 +8,6 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 
-        content: 
-        align: right
-        background:
-          image:
-            filename: model_scales.png
-            class: "custom-image-size" 
-          position: right
       - title: Lunch & Learn ☕️
         content: 
         align: left
