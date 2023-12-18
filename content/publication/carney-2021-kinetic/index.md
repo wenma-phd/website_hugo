@@ -8,6 +8,9 @@ authors:
 - Timothy M Lohman
 - Zaida Luthey-Schulten
 - Yann R Chemla
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2021-01-01'
 publishDate: '2023-12-16T20:00:19.870113Z'
 publication_types:
