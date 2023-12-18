@@ -6,5 +6,3 @@ date: 2022-10-24
 
 ---
 
-<a href="/" class="home-button">Home</a>
-
