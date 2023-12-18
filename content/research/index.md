@@ -1,6 +1,14 @@
 ---
 Title: Research
 
+gallery_item:
+       - album: assets/media/album/
+         image: coders.jpg
+         caption: Write your image 1 caption here
+       - album: assets/media/album/
+         image: contact.jpg
+         caption: Write your image 2 caption here
+
 # Listing view
 #view: showcase
 #flip_alt_rows: false
@@ -19,13 +27,6 @@ sections:
       text: |
         test
         {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
-      #  gallery_item:
-      #   - album: assets/media/album/
-      #     image: coders.jpg
-      #     caption: Write your image 1 caption here
-      #   - album: assets/media/album/
-      #     image: contact.jpg
-      #     caption: Write your image 2 caption here
 
       #filters:
       #  folders:
