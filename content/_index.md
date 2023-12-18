@@ -11,7 +11,10 @@ sections:
       - title: 
         content: 
         align: right
-        image: model_scales.png
+        image:
+            filename: model_scales.png
+            class: "custom-image-size" 
+            position: right
       - title: Lunch & Learn ☕️
         content: 
         align: left
@@ -40,11 +43,11 @@ sections:
       loop: yes
       # Duration of transition between slides (in ms)
       interval: 5000
-  - block: markdown
+  - block: hero
     content:
       title: 
-      #image:
-      #  filename: welcome.jpg
+      image:
+        filename: model_scales.png
       text: |
         👋 Welcome
 
