@@ -11,14 +11,10 @@ sections:
       - title: 
         content: 
         align: center
-        background:
-          image:
+        image:
             filename: model_scales.png
             class: "custom-image-size" 
-            filters:
-              brightness: 1
-          position: right
-          #color: '#666'
+            position: right
       - title: Lunch & Learn ☕️
         content: 
         align: left
