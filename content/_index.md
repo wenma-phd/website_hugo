@@ -1,8 +1,8 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
-type: landing
+#title:
+#date: 2022-10-24
+#type: landing
 ---
 
 <div style="display: flex; align-items: center;">
