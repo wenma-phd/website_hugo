@@ -1,6 +1,6 @@
 ---
 #title: Research
-summary: An example of using the in-built project2 page.
+summary: An example of using the in-built project1 page.
 #tags:
 #  - Deep Learning
 #date: '2016-04-27T00:00:00Z'
