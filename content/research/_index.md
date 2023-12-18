@@ -1,23 +1,28 @@
 ---
-title: ''
-date: 2022-10-24
-type: landing
+
+# Listing view
+view: showcase
+
+# Optional banner image (relative to `assets/media/` folder).
+#banner:
+#  caption: ''
+#  image: ''
+
 
 sections:
-  - block: hero
+  - block: portfolio
     #id: proj1
     content:
       title: research
-      text: |
-        test.
-        {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
-        gallery_item:
-         - album: assets/media/album/
-           image: coders.jpg
-           caption: Write your image 1 caption here
-         - album: assets/media/album/
-           image: contact.jpg
-           caption: Write your image 2 caption here
+      #text: |
+      #  {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
+      #  gallery_item:
+      #   - album: assets/media/album/
+      #     image: coders.jpg
+      #     caption: Write your image 1 caption here
+      #   - album: assets/media/album/
+      #     image: contact.jpg
+      #     caption: Write your image 2 caption here
 
       #filters:
       #  folders:
@@ -43,12 +48,5 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-# Listing view
-#view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
-#banner:
-#  caption: ''
-#  image: ''
 
 ---
