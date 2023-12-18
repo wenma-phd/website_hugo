@@ -1,13 +1,14 @@
 ---
+Title: Research
 
 # Listing view
 view: showcase
 flip_alt_rows: false
 
 # Optional banner image (relative to `assets/media/` folder).
-#banner:
-#  caption: ''
-#  image: ''
+banner:
+  caption: ''
+  image: ''
 
 
 sections:
