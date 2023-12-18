@@ -7,7 +7,7 @@ Title: Research
 #       caption: Write your image 1 caption here
 
 # Listing view
-view: 3
+#view: 3
 #flip_alt_rows: false
 
 # Optional banner image (relative to `assets/media/` folder).
@@ -51,3 +51,5 @@ sections:
 
 
 ---
+
+{{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
