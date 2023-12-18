@@ -15,12 +15,12 @@ sections:
           image:
             filename: cluster.png
             filters:
-              brightness: 0.3
+              brightness: 0.5
             #class: "custom-image-size" 
           position: right
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '100px'
+      slide_height: '300px'
       is_fullscreen: false
       # Automatically transition through slides?
       loop: no
