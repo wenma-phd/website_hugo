@@ -4,7 +4,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
+  - block: portfolio
     id: proj1
     content:
       title: research
