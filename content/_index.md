@@ -13,9 +13,9 @@ sections:
       #  filename: welcome.jpg
       text: |
         <br>
-        Our research lab focuses on developing theoretical and computational methods to study biological processes at different temporal and spatial scales. 
+        Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. 
         We integrate physics, molecular simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. 
-        We strive to build a diverse team with different backgrounds and expertise.
+        We strive to build a diverse team, bringing together a wide range of backgrounds and expertise.
     design:
       background:
           image:
