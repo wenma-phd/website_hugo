@@ -6,6 +6,7 @@ sections:
     content:
       title: research
       text: |
+        test.
         {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
         gallery_item:
          - album: assets/media/album/
