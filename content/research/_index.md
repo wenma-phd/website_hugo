@@ -2,9 +2,8 @@
 Title: Research
 
 # Listing view
-columns: '1'
-view: showcase
-flip_alt_rows: false
+#view: showcase
+#flip_alt_rows: false
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
