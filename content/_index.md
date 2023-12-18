@@ -17,7 +17,7 @@ sections:
             filters:
               brightness: 0.7
             #class: "custom-image-size" 
-          position: center
+          position: right
       - title: Lunch & Learn ☕️
         content: 
         align: left
@@ -28,6 +28,14 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '400px'
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: yes
+      # Duration of transition between slides (in ms)
+      interval: 5000
   - block: hero
     content:
       title: 
