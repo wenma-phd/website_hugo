@@ -51,11 +51,20 @@ sections:
 
 
 ---
-{{< figure src="coders.jpg" width="400px" height="auto" caption="" numbered="false" class="align-left" >}}
+{{< figure src="coders.jpg" width="500px" height="auto" caption="" numbered="false" class="align-left" >}}
 
 <div style="display: flex; align-items: center;">
-    <div style="margin-left: 30px;">
+    <div style="margin-left: 20px;">
     <p>Your description here</p>
   </div>
 </div>
 
+<div style="margin-bottom: 50px;"></div>
+
+{{< figure src="coders.jpg" width="400px" height="auto" caption="" numbered="false" class="align-left" >}}
+
+<div style="display: flex; align-items: left;">
+    <div style="margin-left: 20px;">
+    <p>Your description here</p>
+  </div>
+</div>
