@@ -11,9 +11,9 @@ sections:
       - title: Ma Lab
         content: |
             <div style="text-align: center;">
-              <hr style="width: 50px; border-top: 3px solid orange; margin: 10px auto;" />
-              Theory · Computation · Biophysics
+              <hr style="width: 50px; border-top: 4px solid orange; margin: 10px auto;" />
             </div>
+            Theory · Computation · Biophysics
         align: center
         background:
           image:
@@ -33,8 +33,8 @@ sections:
   - block: hero
     content:
       title: 
-      image:
-        filename: model_scales.png
+      #image:
+      #  filename: model_scales.png
       #text: |
       #  👋 Welcome
       text: |
