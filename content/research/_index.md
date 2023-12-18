@@ -52,5 +52,7 @@ sections:
 
 ---
 
-{{< figure src="coders.jpg" width="500px" height="auto" caption="" numbered="false" class="align-left" >}}
-### test
+{{< figure src="coders.jpg" width="400px" height="auto" caption="" numbered="false" class="align-left" >}}
+<div style="margin-left: 20px;">
+  <p>Your description here</p>
+</div>
