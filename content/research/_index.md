@@ -52,5 +52,5 @@ sections:
 
 ---
 
-{{< figure src="coders.jpg" width="300px" height="auto" caption="" numbered="false" style="float: left; margin-right: 10px;" >}}
+{{< figure src="coders.jpg" width="500px" height="auto" caption="" numbered="false" style="float: left; margin-right: 30px;" >}}
 ### test
