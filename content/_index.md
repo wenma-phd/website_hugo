@@ -11,7 +11,8 @@ sections:
       - title: 
         content: 
         align: right
-        image:
+        background:
+          image:
             filename: model_scales.png
             class: "custom-image-size" 
             position: right
@@ -43,7 +44,7 @@ sections:
       loop: yes
       # Duration of transition between slides (in ms)
       interval: 5000
-  - block: markdown
+  - block: collection
     content:
       title: 
       image:
