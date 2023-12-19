@@ -23,9 +23,9 @@ bio: Biophysical theory and computation
 interests:
   - Computational Biology
   - Machine Learning
-  - Statistical Mechanics
+  - Statistical Physics
   - Structural Biology
-  - Computer-aided drug discovery
+  - Computer-Aided Drug Discovery
 
 education:
   courses:

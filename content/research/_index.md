@@ -46,13 +46,13 @@ sections:
 ---
 <div style="margin-bottom: 80px;"></div>
 
-<h3 style="margin-bottom: 0px;">Multiscale modeling of biological machineries</h3>
+<h3 style="margin-bottom: 0px;">Multiscale modeling and simulations of biological machineries</h3>
 <div style="display: flex; align-items: center;">
     <div style="margin-top: 0px;">
         {{< figure src="model_scales.png" width="2000px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
-        <p style="margin-top: 0px; text-align: justify;"> Our lab focuses on developing and applying multiscale modeling methods to connect molecular biology with systems biology. For example, we are building a multiscale model that links small changes in contractile proteins to cardiac muscle function, based on our previous work (<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2215836120">PNAS 2023</a>, <a href="https://www.biorxiv.org/content/10.1101/2023.11.10.566646.abstract">bioRxiv 2023</a>)
+        <p style="margin-top: 0px; text-align: justify;"> Our lab focuses on developing and applying multiscale modeling methods to connect molecular biology with systems biology, harnessing the power of modern computational physics.  For example, we are building a multiscale model that links small changes in contractile proteins to cardiac muscle function, based on our previous work (<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2215836120">PNAS 2023</a>, <a href="https://www.biorxiv.org/content/10.1101/2023.11.10.566646.abstract">bioRxiv 2023</a>)
         </p>
     </div>
 </div>
