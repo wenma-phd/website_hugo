@@ -44,27 +44,30 @@ sections:
       flip_alt_rows: false
 
 ---
+<div style="margin-bottom: 50px;"></div>
 
-# Multiscale modeling of biological machineries
+### Multiscale modeling of biological machineries
 <div style="display: flex; align-items: center;">
     <div>
-        {{< figure src="coders.jpg" width="500px" height="auto" caption="" numbered="false" >}}
+        {{< figure src="coders.jpg" width="1000px" height="auto" caption="" numbered="false" >}}
     </div>
-    <div style="margin-left: 40px;">
+    <div style="margin-left: 100px;">
         <p> Our group focus on developing and applying multiscale modeling methods to connect molecular biology to systems biology. For example, we are trying to build a multiscale model that links small changes in contractile proteins to cardiac muscle function, based on our previous work (<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2215836120">PNAS 2023</a>,<a href="https://www.biorxiv.org/content/10.1101/2023.11.10.566646.abstract">bioRxiv 2023</a>).
         </p>
     </div>
 </div>
 
-<div style="margin-bottom: 50px;"></div>
+<div style="margin-bottom: 60px;"></div>
 
-# Proj2
+### Apply machine learning and statistical physics to reveal protein conformations and functions
 <div style="display: flex; align-items: center;">
     <div>
         {{< figure src="coders.jpg" width="500px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
-        <p>Your description here...</p>
+        <p> Remarkable advances in life science now permit in-silico exploration of a vast range of length scales from single-protein systems to cell-scale organization and dynamics. We are interested to apply statistical physics and machine learning to extend the timescale conventional methods can simulate. For example, we have employed rare-event sampling techniques to search for the most probable transition pathways for molecular motor actions. (<a href="https://pubs.acs.org/doi/abs/10.1021/ja512605w">JACS 2015</a>, <a href="https://elifesciences.org/articles/34186">eLife 2018</a>).
+
+        </p>
     </div>
 </div>
 
