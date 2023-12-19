@@ -62,7 +62,7 @@ sections:
 ### Applying machine learning and statistical physics to reveal protein conformations and functions
 <div style="display: flex; align-items: center;">
     <div>
-        {{< figure src="AI_SM_PMF.pdf" width="300px" height="auto" caption="" numbered="false" >}}
+        {{< figure src="sm_ai_pmf.png" width="300px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
         <p style="margin-top: 10px;"> Remarkable advances in life science now permit in-silico exploration of a vast range of length scales from single-protein systems to cell-scale organization and dynamics. We are interested to apply statistical physics and machine learning to extend the timescale conventional methods can simulate. For example, we have employed rare-event sampling techniques to search for the most probable transition pathways for molecular motor actions (<a href="https://pubs.acs.org/doi/abs/10.1021/ja512605w" target="_blank">JACS 2015</a>, <a href="https://elifesciences.org/articles/34186" target="_blank">eLife 2018</a>).
