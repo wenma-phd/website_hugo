@@ -4,8 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ma Lab # Website name
-#baseURL: 'https://wmalab.org' # Website URL
 baseURL: 'https://wenma-phd.github.io'
+#baseURL: 'https://wmalab.org' # Website URL
+
 
 ############################
 ## LANGUAGE
