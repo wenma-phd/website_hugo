@@ -69,7 +69,8 @@ user_groups:
 
 ---
 
-Dr. Wen Ma is an Assistant Professor of Physics at the University of Vermont. He is also an affiliate professor in the Department of Molecular Physiology and Biophysics. 
+Dr. Wen Ma is an Assistant Professor of Physics at the University of Vermont. 
+<!-- He is also an affiliate professor in the Department of Molecular Physiology and Biophysics. --> 
 <div style="margin-bottom: 5px;"></div>
 He recieved his PhD from University of Illinois with Prof. Klaus Schulten and completed his postdoctoral training with Prof. J Andrew McCammon at UCSD.
 
