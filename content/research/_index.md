@@ -52,7 +52,7 @@ sections:
         {{< figure src="coders.jpg" width="1000px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 100px;">
-        <p> Our group focus on developing and applying multiscale modeling methods to connect molecular biology to systems biology. For example, we are trying to build a multiscale model that links small changes in contractile proteins to cardiac muscle function, based on our previous work (<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2215836120">PNAS 2023</a>,<a href="https://www.biorxiv.org/content/10.1101/2023.11.10.566646.abstract">bioRxiv 2023</a>).
+        <p> Our group focus on developing and applying multiscale modeling methods to connect molecular biology to systems biology. For example, we are trying to build a multiscale model that links small changes in contractile proteins to cardiac muscle function, based on our previous work (<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2215836120" target="_blank">PNAS 2023</a>, <a href="https://www.biorxiv.org/content/10.1101/2023.11.10.566646.abstract" target="_blank">bioRxiv 2023</a>).
         </p>
     </div>
 </div>
@@ -65,18 +65,20 @@ sections:
         {{< figure src="coders.jpg" width="500px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
-        <p> Remarkable advances in life science now permit in-silico exploration of a vast range of length scales from single-protein systems to cell-scale organization and dynamics. We are interested to apply statistical physics and machine learning to extend the timescale conventional methods can simulate. For example, we have employed rare-event sampling techniques to search for the most probable transition pathways for molecular motor actions. (<a href="https://pubs.acs.org/doi/abs/10.1021/ja512605w">JACS 2015</a>, <a href="https://elifesciences.org/articles/34186">eLife 2018</a>).
-
+        <p> Remarkable advances in life science now permit in-silico exploration of a vast range of length scales from single-protein systems to cell-scale organization and dynamics. We are interested to apply statistical physics and machine learning to extend the timescale conventional methods can simulate. For example, we have employed rare-event sampling techniques to search for the most probable transition pathways for molecular motor actions. (<a href="https://pubs.acs.org/doi/abs/10.1021/ja512605w" target="_blank">JACS 2015</a>, <a href="https://elifesciences.org/articles/34186" target="_blank">eLife 2018</a>).
         </p>
     </div>
 </div>
 
+<div style="margin-bottom: 60px;"></div>
 
+### Simulation inspired drug discovery
 <div style="display: flex; align-items: center;">
     <div>
-        {{< figure src="coders.jpg" width="500px" height="auto" caption="" numbered="false" >}}
+        {{< figure src="coders.jpg" width="1500px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
-        <p>Your description here...</p>
+        <p> Taking advantage of the conformational ensembles from molecular simulations, we discover potential drug binding sites and screen allosteric modulators with the help from machine learning. 
+        </p>
     </div>
 </div>
