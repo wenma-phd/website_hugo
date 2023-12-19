@@ -19,7 +19,6 @@ sections:
       text: |
       #  test
       #  {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
-
       #filters:
       #  folders:
       #    - project
@@ -52,7 +51,10 @@ sections:
         {{< figure src="coders.jpg" width="500px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
-        <p>Your description here...</p>
+        <p> style="font-weight: bold;"> Multiscale modeling of biological machineries
+        </p>
+        <p> Our group focus on developing and applying multiscale modeling methods to connect molecular biology to systems biology. For example, we are trying to build a multiscale model that links small changes in contractile proteins to muscle function, based on our previous work (PNAS 2023 {{< cite="/publication/ma-2023-integrating" view="citation" >}}, bioRxiv 2023 {{< cite= "/publication/bodt-2023-dilated" view="citation" >}})
+        </p>
     </div>
 </div>
 

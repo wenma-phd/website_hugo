@@ -47,7 +47,7 @@ header:
 footer:
 # block: minimal
   copyright:
-    notice: '© 2024 The Ma Lab'
+    notice: '© 2024 Ma Lab'
 #    notice: '© {year} Me. This work is licensed under {license}'
 #    license:
 #      enable: true
