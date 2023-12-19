@@ -18,6 +18,6 @@ We welcome students from diverse background (physics, biophysics, bioengineering
 If you are interested in joining our group, please reach out to [wen.ma@uvm.edu](mailto:wen.ma@uvm.edu)
 
 ### Undergraduate student
-We welcome undergraduate students to join us, especially those eager to apply physics and machine learning to study life science!
+We welcome UVM undergraduate students to join us, especially those eager to apply physics and machine learning to study life science!
 
 

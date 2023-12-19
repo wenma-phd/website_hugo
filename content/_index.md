@@ -11,7 +11,7 @@ sections:
       - title: Ma Lab
         content: |
             <div style="text-align: center;">
-              <hr style="width: 50px; border-top: 4px orange; margin: 10px auto;" />
+              <hr style="width: 50px; border-top: 4px solid orange; margin: 10px auto;" />
               <div style="color: white;"> Theory · Computation · Biophysics </div>
             </div>
         align: center
