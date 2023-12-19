@@ -52,9 +52,9 @@ sections:
     </div>
     <div style="margin-left: 20px;">
         <p> style="font-weight: bold;"> Multiscale modeling of biological machineries
+        </p> 
+        <p> Our group focus on developing and applying multiscale modeling methods to connect molecular biology to systems biology. For example, we are trying to build a multiscale model that links small changes in contractile proteins to cardiac muscle function, based on our previous work (<a href=" https://www.pnas.org/doi/abs/10.1073/pnas.2215836120 "> PNAS 2023 </a>, <a href=" https://www.biorxiv.org/content/10.1101/2023.11.10.566646.abstract ">bioRxiv 2023 </a>)
         </p>
-        Our group focus on developing and applying multiscale modeling methods to connect molecular biology to systems biology. For example, we are trying to build a multiscale model that links small changes in contractile proteins to muscle function, based on our previous work (PNAS 2023 {{< cite page="/publication/ma-2023-integrating" view="citation" >}}, bioRxiv 2023 {{< cite page= "/publication/bodt-2023-dilated" view="citation" >}})
-        
     </div>
 </div>
 
