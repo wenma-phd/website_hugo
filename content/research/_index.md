@@ -44,7 +44,7 @@ sections:
       flip_alt_rows: false
 
 ---
-<div style="margin-bottom: 60px;"></div>
+<div style="margin-bottom: 90px;"></div>
 
 ### Multiscale modeling of biological machineries
 <div style="display: flex; align-items: center;">
@@ -62,7 +62,7 @@ sections:
 ### Applying machine learning and statistical physics to reveal protein conformations and functions
 <div style="display: flex; align-items: center;">
     <div>
-        {{< figure src="AI_SM_PMF.png" width="1500px" height="auto" caption="" numbered="false" >}}
+        {{< figure src="AI_SM_PMF.png" width="500px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
         <p> Remarkable advances in life science now permit in-silico exploration of a vast range of length scales from single-protein systems to cell-scale organization and dynamics. We are interested to apply statistical physics and machine learning to extend the timescale conventional methods can simulate. For example, we have employed rare-event sampling techniques to search for the most probable transition pathways for molecular motor actions. (<a href="https://pubs.acs.org/doi/abs/10.1021/ja512605w" target="_blank">JACS 2015</a>, <a href="https://elifesciences.org/articles/34186" target="_blank">eLife 2018</a>).
