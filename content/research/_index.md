@@ -44,7 +44,7 @@ sections:
       flip_alt_rows: false
 
 ---
-<div style="margin-bottom: 90px;"></div>
+<div style="margin-bottom: 80px;"></div>
 
 <h3 style="margin-bottom: 0px;">Multiscale modeling of biological machineries</h3>
 <div style="display: flex; align-items: center;">
@@ -57,12 +57,12 @@ sections:
     </div>
 </div>
 
-<div style="margin-bottom: 60px;"></div>
+<div style="margin-bottom: 80px;"></div>
 
 <h3 style="margin-bottom: 0px;">Applying machine learning and statistical physics to reveal protein conformations and functions</h3>
 <div style="display: flex; align-items: center;">
     <div>
-        {{< figure src="sm_ai_pmf.png" width="4000px" height="auto" caption="" numbered="false" >}}
+        {{< figure src="sm_ai_pmf.png" width="5000px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
         <p style="margin-top: 0px;"> Remarkable advances in life science now permit in-silico exploration of a vast range of length scales from single-protein systems to cell-scale organization and dynamics. We are interested to apply statistical physics and machine learning to extend the timescale conventional methods can simulate. For example, we have employed rare-event sampling techniques to search for the most probable transition pathways for molecular motor actions (<a href="https://pubs.acs.org/doi/abs/10.1021/ja512605w" target="_blank">JACS 2015</a>, <a href="https://elifesciences.org/articles/34186" target="_blank">eLife 2018</a>).
@@ -70,7 +70,7 @@ sections:
     </div>
 </div>
 
-<div style="margin-bottom: 60px;"></div>
+<div style="margin-bottom: 80px;"></div>
 
 <h3 style="margin-bottom: 0px;">Simulation inspired drug discovery</h3>
 <div style="display: flex; align-items: center;">
