@@ -65,7 +65,7 @@ sections:
         {{< figure src="sm_ai_pmf.png" width="5000px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
-        <p style="margin-top: 0px;"> Remarkable advances in life science now permit in-silico exploration of a vast range of length scales from single-protein systems to cell-scale organization and dynamics. We are interested to apply statistical physics and machine learning/AI to extend the timescale conventional methods can simulate. For example, we have employed rare-event sampling techniques to search for the most probable transition pathways for molecular motor actions (<a href="https://pubs.acs.org/doi/abs/10.1021/ja512605w" target="_blank">JACS 2015</a>, <a href="https://elifesciences.org/articles/34186" target="_blank">eLife 2018</a>).
+        <p style="margin-top: 0px;"> Remarkable advances in life science now permit in-silico exploration of a vast range of length scales from single-protein systems to cell-scale organization and dynamics. We are interested to apply statistical physics and machine learning/AI to extend the timescale conventional methods can simulate. Previously, we have employed rare-event sampling techniques to search for the most probable transition pathways for molecular motor actions (<a href="https://pubs.acs.org/doi/abs/10.1021/ja512605w" target="_blank">JACS 2015</a>, <a href="https://elifesciences.org/articles/34186" target="_blank">eLife 2018</a>).
         </p>
     </div>
 </div>
@@ -75,7 +75,7 @@ sections:
 <h3 style="margin-bottom: 0px;">Simulation inspired drug discovery</h3>
 <div style="display: flex; align-items: center;">
     <div style="margin-top: 10px;">
-        {{< figure src="drug_discovery.png" width="1000px" height="auto" caption="" numbered="false" >}}
+        {{< figure src="drug_discovery.png" width="1500px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
         <p style="margin-top: 0px;"> Taking advantage of the conformational ensembles from the molecular simulations, we discover potential drug binding sites and screen allosteric modulators with the help from machine learning. We are currently designing small molecules targeting cardiac myosin (cardiomyopathy) and LRRK2 (Parkinson's disease, <a href="https://pubs.acs.org/doi/full/10.1021/acschembio.2c00868" target="_blank">ACS Chem Biol 2023</a>).
