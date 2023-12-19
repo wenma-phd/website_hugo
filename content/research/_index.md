@@ -78,7 +78,7 @@ sections:
         {{< figure src="drug_discovery.png" width="1000px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
-        <p style="margin-top: 0px;"> Taking advantage of the conformational ensembles from molecular simulations, we discover potential drug binding sites and screen allosteric modulators with the help from machine learning. 
+        <p style="margin-top: 0px;"> Taking advantage of the conformational ensembles from molecular simulations, we discover potential drug binding sites and screen allosteric modulators with the help from machine learning. We are currently designing small molecules targeting myosin (cardiomyopathy) and LRRK2 (Parkinson's disease) (<a href=” https://pubs.acs.org/doi/full/10.1021/acschembio.2c00868" target="_blank">ACS Chem Biol</a>).
         </p>
     </div>
 </div>
