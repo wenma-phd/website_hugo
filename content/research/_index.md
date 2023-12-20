@@ -52,7 +52,7 @@ sections:
         {{< figure src="model_scales.png" width="2000px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
-        <p style="margin-top: 0px; text-align: justify;"> Our lab focuses on developing and applying multiscale modeling methods to connect molecular biology with systems biology, harnessing the power of modern computational physics.  For example, we are building a multiscale model that links small changes in contractile proteins to cardiac muscle function, based on our previous work (<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2215836120">PNAS 2023</a>, <a href="https://www.biorxiv.org/content/10.1101/2023.11.10.566646.abstract">bioRxiv 2023</a>)
+        <p style="margin-top: 0px; text-align: justify;"> Our lab focuses on developing and applying multiscale modeling methods to connect molecular biology with systems biology, harnessing the power of modern computational physics. For example, we are building a multiscale model that characterizes how small changes in contractile proteins impact cardiac sarcomere function, based on our previous work (<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2215836120">PNAS 2023</a>, <a href="https://www.biorxiv.org/content/10.1101/2023.11.10.566646.abstract">bioRxiv 2023</a>)
         </p>
     </div>
 </div>
@@ -65,7 +65,9 @@ sections:
         {{< figure src="sm_ai_pmf.png" width="5000px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
-        <p style="margin-top: 0px; text-align: justify;"> Remarkable advances in life science now permit in-silico exploration of a vast range of length scales from single-protein systems to cell-scale organization. We are interested to apply statistical physics and deep learning to extend the timescales that conventional methods can simulate. Previously, we employed rare-event sampling techniques to search for the most probable transition pathways for molecular motor actions (<a href="https://pubs.acs.org/doi/abs/10.1021/ja512605w">JACS 2015</a>, <a href="https://elifesciences.org/articles/34186">eLife 2018</a>).
+        <p style="margin-top: 0px; text-align: justify;"> 
+        Molecular simulations have become a valuable complement to laboratory and clinical studies in combating various diseases. We are interested in applying statistical physics and deep learning to extend the limited timescales that conventional molecular simulations are able to cover.
+        Previously, we employed rare-event sampling techniques to search for the most probable transition pathways for molecular motor actions (<a href="https://pubs.acs.org/doi/abs/10.1021/ja512605w">JACS 2015</a>, <a href="https://elifesciences.org/articles/34186">eLife 2018</a>).
         </p>
     </div>
 </div>
