@@ -44,14 +44,15 @@ sections:
       flip_alt_rows: false
 
 ---
+
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-C360T6WR4R"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9M5LBVNQ1R"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-C360T6WR4R');
+  gtag('config', 'G-9M5LBVNQ1R');
 </script>
 
 <div style="margin-bottom: 80px;"></div>
