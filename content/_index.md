@@ -32,6 +32,12 @@ sections:
       interval: 5000
   - block: markdown
     content:
+      title: News
+      text: |
+          * **May, 2024**: Dr. Ma won the Early Career Research Award from Cardiovascular Research Institute of Vermont (CVRI) ($10,000). His award has also been selected by the Board of Directors as the Martin M. LeWinter (MMLW) Early Career Investigator Award.
+
+  - block: markdown
+    content:
       title: 
       #image:
       #  filename: model_scales.png
@@ -39,11 +45,7 @@ sections:
       #  👋 Welcome
       text: |
           Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. We integrate physics, multiscale simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. We strive to build a diverse team, bringing together a wide range of backgrounds and expertise.
-  - block: markdown
-    content:
-      title: News
-      text: |
-          * **Jun 15, 2024**: Launch of the new AI-driven data analysis tool. 
+
 
           
 
