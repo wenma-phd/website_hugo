@@ -40,8 +40,8 @@ sections:
       text: |
           Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. We integrate physics, multiscale simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. We strive to build a diverse team, bringing together a wide range of backgrounds and expertise.
   - block: markdown
-     content:
-      title:
+    content:
+      title: News
       text: |
           * **Jun 15, 2024**: Launch of the new AI-driven data analysis tool. 
 
