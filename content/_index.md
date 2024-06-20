@@ -44,7 +44,7 @@ sections:
      content:
       title: News
       text: |
-          * **Jun 15, 2024**: Launch of the new AI-driven data analysis tool. [Read more](#)
+          * **Jun 15, 2024**: Launch of the new AI-driven data analysis tool. 
 
           
 
