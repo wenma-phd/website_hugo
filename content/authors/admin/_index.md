@@ -67,6 +67,8 @@ highlight_name: false
 user_groups:
   - Principal Investigator
 
+<div style="margin-bottom: 25px;"></div>
+
 ---
 
 Dr. Wen Ma is an Assistant Professor of Physics at the University of Vermont. 

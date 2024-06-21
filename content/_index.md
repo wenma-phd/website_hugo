@@ -64,21 +64,21 @@ sections:
 
 ---
 
-<!-- Shortcode to wrap the horizontal items -->
-<div class="horizontal-content">
-  {{ range .Params.sections }}
-    {{ if eq .block "markdown" }}
-      <div class="{{ .content.class }}">
-        <h2>{{ .content.title }}</h2>
-        {{ .content.text | safeHTML }}
-      </div>
-    {{ else if eq .block "slider" }}
-      <div class="slider-wrapper">
-        {{ .content | markdownify }}
-      </div>
-    {{ end }}
+<!-- Use Hugo's templating to wrap the sections for styling -->
+{{ $sections := .Params.sections }}
+{{ range $index, $section := $sections }}
+  {{ if eq $section.block "slider" }}
+    <div class="slider-wrapper">
+      {{ $section.content | markdownify }}
+    </div>
+  {{ else if eq $section.block "markdown" }}
+    <!-- Only apply horizontal-item class to markdown sections -->
+    <div class="horizontal-item">
+      {{ with $section.content.title }}<h2>{{ . }}</h2>{{ end }}
+      {{ $section.content.text | safeHTML }}
+    </div>
   {{ end }}
-</div>
+{{ end }}
 
 
 <!-- Google tag (gtag.js) -->
