@@ -23,3 +23,16 @@
   margin-left: auto;
   margin-right: 10px;
 }
+
+.horizontal-container {
+  display: flex;
+  justify-content: space-between; /* Adjust spacing between items */
+  gap: 20px; /* Adds space between items */
+  flex-wrap: wrap; /* Allows items to wrap to the next line if needed */
+}
+
+.horizontal-item {
+  flex: 1; /* Adjusts width to be equal */
+  margin: 10px; /* Adds margin around each item */
+  box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+}
