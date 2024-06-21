@@ -48,37 +48,33 @@ sections:
     content:
       title: "News"
       text: |
-        <div class="horizontal-item">
+
           <ul>
             <li><strong>May, 2024</strong>: Dr. Ma won the Early Career Research Award from the Cardiovascular Research Institute of Vermont (CVRI) ($10,000). His award has also been selected by the Board of Directors as the Martin M. LeWinter (MMLW) Early Career Investigator Award.</li>
             <li><strong>Feb, 2024</strong>: Dr. Ma gave a Symposium-select Talk “Exploring allosteric regulation in molecular motors through the computational microscope” at the 68th Biophysical Society Meeting.</li>
           </ul>
-        </div>
+
   - block: markdown
     content:
       title:
       text: |
-        <div class="horizontal-item">
           <p>Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. We integrate physics, multiscale simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. We strive to build a diverse team, bringing together a wide range of backgrounds and expertise.</p>
-        </div>
+
 
 ---
 
-<!-- Use Hugo's templating to wrap the sections for styling -->
-{{ $sections := .Params.sections }}
-{{ range $index, $section := $sections }}
-  {{ if eq $section.block "slider" }}
-    <div class="slider-wrapper">
-      {{ $section.content | markdownify }}
-    </div>
-  {{ else if eq $section.block "markdown" }}
-    <!-- Only apply horizontal-item class to markdown sections -->
-    <div class="horizontal-item">
-      {{ with $section.content.title }}<h2>{{ . }}</h2>{{ end }}
-      {{ $section.content.text | safeHTML }}
-    </div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  {{ range .Params.sections }}
+    {{ if eq .block "markdown" }}
+      <div style="flex: 1; min-width: 300px; margin: 10px; padding: 10px; box-sizing: border-box; background-color: #f5f5f5; border-radius: 8px;">
+        {{ with .content.title }}<h2>{{ . }}</h2>{{ end }}
+        {{ .content.text | safeHTML }}
+      </div>
+    {{ end }}
   {{ end }}
-{{ end }}
+</div>
+
 
 
 <!-- Google tag (gtag.js) -->
