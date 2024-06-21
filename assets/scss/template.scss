@@ -26,15 +26,15 @@
 .horizontal-container {
   display: flex;
   flex-wrap: wrap; /* Allows items to wrap if necessary */
-  gap: 20px; /* Space between items */
+  gap: 2px; /* Space between items */
   justify-content: space-between;
-  margin: 20px 0;
+  margin: 2px 0;
 }
 
 /* Styles for individual horizontal items */
 .horizontal-item {
   flex: 1;
-  min-width: 300px;
+  min-width: 3px;
   max-width: none; /* Remove any max-width restrictions for horizontal layout */
   margin: 1px; /* Add custom margins */
   padding: 1px;
