@@ -16,8 +16,7 @@ sections:
     #id: proj1
     content:
       title: research
-      text: |
-         Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. We integrate physics, multiscale simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. We strive to build a diverse team, bringing together a wide range of backgrounds and expertise.
+      text: 
       #  test
       #  {{< figure src="coders.jpg" caption="A caption" numbered="true" >}}
       #filters:
@@ -68,6 +67,10 @@ sections:
         </p>
     </div>
 </div>
+
+<div style="margin-bottom: 80px;"></div>
+
+<p style="margin-top: 0px; text-align: justify;"> Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. We integrate physics, multiscale simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. We strive to build a diverse team, bringing together a wide range of backgrounds and expertise. </p>
 
 <div style="margin-bottom: 80px;"></div>
 
