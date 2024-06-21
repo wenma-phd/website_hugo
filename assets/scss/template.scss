@@ -24,15 +24,20 @@
   margin-right: 10px;
 }
 
-.horizontal-container {
+.horizontal-content {
   display: flex;
-  justify-content: space-between; /* Adjust spacing between items */
-  gap: 20px; /* Adds space between items */
-  flex-wrap: wrap; /* Allows items to wrap to the next line if needed */
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+  margin: 20px 0;
 }
 
 .horizontal-item {
-  flex: 1; /* Adjusts width to be equal */
-  margin: 10px; /* Adds margin around each item */
-  box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+  flex: 1;
+  min-width: 300px; /* Ensure responsiveness */
+  margin: 10px;
+  padding: 10px;
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  background-color: #f5f5f5; /* Optional: Add background color for better visual separation */
+  border-radius: 8px; /* Optional: Add rounded corners */
 }

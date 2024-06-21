@@ -44,22 +44,38 @@ sections:
           Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. We integrate physics, multiscale simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. We strive to build a diverse team, bringing together a wide range of backgrounds and expertise. </p>
       class: "horizontal-item"
 
-<div style="margin-bottom: 80px;"></div>
-
----
   - block: markdown
     content:
-      title: 
-      #image:
-      #  filename: model_scales.png
-      #text: |
-      #  👋 Welcome
+      title: "News"
       text: |
-          Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. We integrate physics, multiscale simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. We strive to build a diverse team, bringing together a wide range of backgrounds and expertise.
+        <div class="horizontal-item">
+          <ul>
+            <li><strong>May, 2024</strong>: Dr. Ma won the Early Career Research Award from the Cardiovascular Research Institute of Vermont (CVRI) ($10,000). His award has also been selected by the Board of Directors as the Martin M. LeWinter (MMLW) Early Career Investigator Award.</li>
+            <li><strong>Feb, 2024</strong>: Dr. Ma gave a Symposium-select Talk “Exploring allosteric regulation in molecular motors through the computational microscope” at the 68th Biophysical Society Meeting.</li>
+          </ul>
+        </div>
+  - block: markdown
+    content:
+      title: "About Our Research"
+      text: |
+        <div class="horizontal-item">
+          <p>Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. We integrate physics, multiscale simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. We strive to build a diverse team, bringing together a wide range of backgrounds and expertise.</p>
+        </div>
 
-
-          
 ---
+
+<div class="horizontal-content">
+  {{ range .Params.sections }}
+    {{ if eq .block "markdown" }}
+      {{ .content.text | safeHTML }}
+    {{ else if eq .block "slider" }}
+      <div class="slider-wrapper">
+        {{ .content | markdownify }}
+      </div>
+    {{ end }}
+  {{ end }}
+</div>
+          
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9M5LBVNQ1R"></script>
