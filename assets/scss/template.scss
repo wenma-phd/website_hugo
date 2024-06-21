@@ -21,14 +21,15 @@
   margin-right: 10px;
 }
 
+/* the following lines are not working */
 
 /* Styles for the horizontal layout */
 .horizontal-container {
   display: flex;
   flex-wrap: wrap; /* Allows items to wrap if necessary */
-  gap: 2px; /* Space between items */
+  gap: 20px; /* Space between items */
   justify-content: space-between;
-  margin: 2px 0;
+  margin: 20px 0;
 }
 
 /* Styles for individual horizontal items */
@@ -36,9 +37,9 @@
   flex: 1;
   min-width: 30px;
   max-width: none; /* Remove any max-width restrictions for horizontal layout */
-  margin: 1px; /* Add custom margins */
-  padding: 1px;
+  margin: 10px; /* Add custom margins */
+  padding: 1-px;
   box-sizing: border-box;
-  /* background-color: #f5f5f5; /* Optional */
+  background-color: #f5f5f5; /* Optional */
   border-radius: 8px; /* Optional */
 }

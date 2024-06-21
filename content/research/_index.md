@@ -55,7 +55,11 @@ sections:
   gtag('config', 'G-9M5LBVNQ1R');
 </script>
 
+
+<p style="margin-top: 0px; text-align: justify;"> Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. We integrate physics, multiscale simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. We strive to build a diverse team, bringing together a wide range of backgrounds and expertise.
+</p>
 <div style="margin-bottom: 80px;"></div>
+
 
 <h3 style="margin-bottom: 0px;">Multiscale modeling and simulations of biological machineries</h3>
 <div style="display: flex; align-items: center;">
