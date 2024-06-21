@@ -47,7 +47,7 @@ sections:
 
           <ul>
             <li><strong>May, 2024</strong>: Dr. Ma won the Early Career Research Award from the Cardiovascular Research Institute of Vermont (CVRI) ($10,000). His award has also been selected by the Board of Directors as the Martin M. LeWinter (MMLW) Early Career Investigator Award.</li>
-            <li><strong>Feb, 2024</strong>: Dr. Ma gave a Symposium-select Talk “Exploring allosteric regulation in molecular motors through the computational microscope” at the 68th Biophysical Society Meeting.</li>
+            <li><strong>Feb, 2024</strong>: Dr. Ma gave a Symposium-Select Talk, “Exploring Allosteric Regulation in Molecular Motors Through the Computational Microscope,” at the 68th Biophysical Society Meeting.</li>
           </ul>
 
   - block: markdown
