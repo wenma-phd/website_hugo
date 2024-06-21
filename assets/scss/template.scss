@@ -8,10 +8,7 @@
   justify-content: center;
 }
 
-.markdown-block {
-  max-width: 400px; /* Adjust the value as needed */
-  margin: 0 auto; /* This centers the block */
-}
+
 .custom-image-size {
   max-width: 100%; /* Ensures image is responsive and fits the container */
   height: auto; /* Maintains aspect ratio */
@@ -24,20 +21,24 @@
   margin-right: 10px;
 }
 
-.horizontal-content {
+
+/* Styles for the horizontal layout */
+.horizontal-container {
   display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
+  flex-wrap: wrap; /* Allows items to wrap if necessary */
+  gap: 20px; /* Space between items */
   justify-content: space-between;
   margin: 20px 0;
 }
 
+/* Styles for individual horizontal items */
 .horizontal-item {
   flex: 1;
-  min-width: 300px; /* Ensure responsiveness */
-  margin: 10px;
+  min-width: 300px;
+  max-width: none; /* Remove any max-width restrictions for horizontal layout */
+  margin: 10px; /* Add custom margins */
   padding: 10px;
-  box-sizing: border-box; /* Include padding and border in the element's total width and height */
-  background-color: #f5f5f5; /* Optional: Add background color for better visual separation */
-  border-radius: 8px; /* Optional: Add rounded corners */
+  box-sizing: border-box;
+  background-color: #f5f5f5; /* Optional */
+  border-radius: 8px; /* Optional */
 }
