@@ -56,7 +56,7 @@ sections:
         </div>
   - block: markdown
     content:
-      title: "About Our Research"
+      title:
       text: |
         <div class="horizontal-item">
           <p>Our research lab focuses on developing theoretical and computational methods to study biological processes across different temporal and spatial scales. We integrate physics, multiscale simulations, and machine learning to unravel the mechanisms of essential biological machineries and design molecules for treating related diseases. We strive to build a diverse team, bringing together a wide range of backgrounds and expertise.</p>
@@ -64,10 +64,14 @@ sections:
 
 ---
 
+<!-- Shortcode to wrap the horizontal items -->
 <div class="horizontal-content">
   {{ range .Params.sections }}
     {{ if eq .block "markdown" }}
-      {{ .content.text | safeHTML }}
+      <div class="{{ .content.class }}">
+        <h2>{{ .content.title }}</h2>
+        {{ .content.text | safeHTML }}
+      </div>
     {{ else if eq .block "slider" }}
       <div class="slider-wrapper">
         {{ .content | markdownify }}
@@ -75,7 +79,7 @@ sections:
     {{ end }}
   {{ end }}
 </div>
-          
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9M5LBVNQ1R"></script>
