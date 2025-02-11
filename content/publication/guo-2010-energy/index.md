@@ -13,7 +13,7 @@ authors:
 - Yugang Wang
 - Lei Jiang
 date: '2010-01-01'
-publishDate: '2025-02-11T15:50:27.673114Z'
+publishDate: '2025-02-11T15:55:04.682955Z'
 publication_types:
 - article-journal
 publication: '*Advanced functional materials*'
