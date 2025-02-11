@@ -96,7 +96,7 @@ sections:
         {{< figure src="drug_discovery.png" width="2000px" height="auto" caption="" numbered="false" >}}
     </div>
     <div style="margin-left: 20px;">
-        <p style="margin-top: 0px; text-align: justify;"> Taking advantage of the conformational ensembles obtained from the aforementioned simulations, we discover potential drug binding sites and screen allosteric modulators with the assistance of machine learning. We are currently designing small molecules targeting cardiac myosin (for cardiomyopathy) and LRRK2 (for Parkinson's disease, <a href="https://pubs.acs.org/doi/full/10.1021/acschembio.2c00868">ACS Chem Biol 2023</a> and <a href="https://www.nature.com/articles/s41421-023-00639-8">Cell Discovery 2024</a>).
+        <p style="margin-top: 0px; text-align: justify;"> Taking advantage of the conformational ensembles obtained from the aforementioned simulations, we discover potential drug binding sites and screen allosteric modulators with the assistance of machine learning. We are currently designing small molecules targeting cardiac myosin (for cardiomyopathy) and LRRK2 (for Parkinson's disease, <a href="https://pubs.acs.org/doi/full/10.1021/acschembio.2c00868">ACS Chem Biol 2023</a>, <a href="https://www.nature.com/articles/s41421-023-00639-8">Cell Discovery 2024</a>).
         </p>
     </div>
 </div>
