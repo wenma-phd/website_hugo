@@ -13,7 +13,7 @@ authors:
 - Sua Myong
 - Taekjip Ha
 date: '2022-01-01'
-publishDate: '2023-12-16T20:00:19.882320Z'
+publishDate: '2025-02-11T15:35:59.213483Z'
 publication_types:
 - article-journal
 publication: '*Nature communications*'

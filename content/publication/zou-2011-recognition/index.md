@@ -7,7 +7,7 @@ authors:
 - Christophe Chipot
 - Klaus Schulten
 date: '2011-01-01'
-publishDate: '2023-12-16T20:00:19.827119Z'
+publishDate: '2025-02-11T15:35:59.130435Z'
 publication_types:
 - article-journal
 publication: '*Nucleic Acids Research*'

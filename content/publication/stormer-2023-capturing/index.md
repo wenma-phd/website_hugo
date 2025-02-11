@@ -10,7 +10,7 @@ authors:
 - Friedrich W Herberg
 - Susan S Taylor
 date: '2023-01-01'
-publishDate: '2023-12-16T20:00:19.888550Z'
+publishDate: '2025-02-11T15:35:59.220220Z'
 publication_types:
 - article-journal
 publication: '*Biochemical Journal*'

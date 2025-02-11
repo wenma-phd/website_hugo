@@ -5,7 +5,7 @@ authors:
 - Wen Ma
 - Klaus Schulten
 date: '2015-01-01'
-publishDate: '2023-12-16T20:00:19.839498Z'
+publishDate: '2025-02-11T15:35:59.151764Z'
 publication_types:
 - article-journal
 publication: '*Journal of the American Chemical Society*'

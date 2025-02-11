@@ -11,7 +11,7 @@ authors:
 - Klaus Schulten
 - James M Berger
 date: '2018-01-01'
-publishDate: '2023-12-16T20:00:19.851364Z'
+publishDate: '2025-02-11T15:35:59.172347Z'
 publication_types:
 - article-journal
 publication: '*Molecular cell*'

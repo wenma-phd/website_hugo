@@ -8,7 +8,7 @@ authors:
 - Zaida Luthey-Schulten
 - Klaus Schulten
 date: '2018-01-01'
-publishDate: '2023-12-16T20:00:19.894623Z'
+publishDate: '2025-02-11T15:35:59.233424Z'
 publication_types:
 - article-journal
 publication: '*Elife*'
