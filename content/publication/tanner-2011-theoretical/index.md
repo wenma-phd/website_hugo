@@ -7,7 +7,7 @@ authors:
 - Zhongzhou Chen
 - Klaus Schulten
 date: '2011-01-01'
-publishDate: '2025-02-11T15:55:04.692646Z'
+publishDate: '2025-02-11T16:17:02.732857Z'
 publication_types:
 - article-journal
 publication: '*Biophysical Journal*'

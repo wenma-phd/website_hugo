@@ -2,12 +2,12 @@
 title: Integrating comparative modeling and accelerated simulations reveals conformational
   and energetic basis of actomyosin force generation
 authors:
-- Wen Ma\P
+- Wen Ma^\dagger
 - Shengjun You
 - Michael Regnier
-- J Andrew McCammon\P
+- J Andrew McCammon^\dagger
 date: '2023-01-01'
-publishDate: '2025-02-11T15:55:04.761740Z'
+publishDate: '2025-02-11T16:17:02.800237Z'
 publication_types:
 - article-journal
 publication: '*Proceedings of the National Academy of Sciences*'

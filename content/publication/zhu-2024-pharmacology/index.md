@@ -3,10 +3,10 @@ title: Pharmacology of LRRK2 with type I and II kinase inhibitors revealed by cr
 authors:
 - Hanwen Zhu
 - Patricia Hixson
-- Wen\P Ma
-- Ji\P Sun
+- Wen Ma^\dagger
+- Ji Sun^\dagger
 date: '2024-01-01'
-publishDate: '2025-02-11T15:55:04.803974Z'
+publishDate: '2025-02-11T16:17:02.839992Z'
 publication_types:
 - article-journal
 publication: '*Cell Discovery*'
