@@ -13,7 +13,7 @@ We are currently seeking highly motivated postdoctoral scholars to join our team
 If you are interested in our research, please send an inquiry along with your CV to [wen.ma@uvm.edu](mailto:wen.ma@uvm.edu).
 
 ### Graduate student
-We welcome students from diverse background (physics, biophysics, bioengineering, computer science) to join our group!
+We welcome students from diverse background (physics, biophysics, biochemistry, engineering, computer science) to join our group!
 
 If you are interested in joining our group, please reach out to [wen.ma@uvm.edu](mailto:wen.ma@uvm.edu)
 
