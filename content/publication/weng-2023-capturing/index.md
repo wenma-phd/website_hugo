@@ -3,7 +3,7 @@ title: Capturing differences in the regulation of LRRK2 dynamics and conformatio
   states by small molecule kinase inhibitors
 authors:
 - Jui-Hung Weng*
-- Wen Ma* ‡
+- Wen Ma*‡
 - Jian Wu
 - Pallavi Kaila Sharma
 - Steve Silletti
