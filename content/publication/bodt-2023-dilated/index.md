@@ -1,8 +1,16 @@
 ---
 title: Dilated cardiomyopathy mutation in beta-cardiac myosin enhances actin activation
   of the power stroke and phosphate release
-date: '2024-07-01'
-publishDate: '2025-02-11T15:35:59.239733Z'
+authors:
+- Skylar M L Bodt
+- Jinghua Ge
+- Wen Ma
+- David V Rasicci
+- Rohini Desetty
+- J Andrew McCammon
+- Christopher M Yengo
+date: '2024-01-01'
+publishDate: '2025-02-11T15:50:27.799509Z'
 publication_types:
 - article-journal
 publication: '*PNAS Nexus*'

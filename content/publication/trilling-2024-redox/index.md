@@ -11,7 +11,7 @@ authors:
 - Susan S. Taylor
 - Friedrich W. Herberg
 date: '2024-01-01'
-publishDate: '2025-02-11T15:35:59.246080Z'
+publishDate: '2025-02-11T15:50:27.806211Z'
 publication_types:
 - article-journal
 publication: "*npj Parkinson's Disease*"

@@ -14,7 +14,7 @@ authors:
 - Santi Nonell
 - ' others'
 date: '2019-01-01'
-publishDate: '2025-02-11T15:35:59.179928Z'
+publishDate: '2025-02-11T15:50:27.722906Z'
 publication_types:
 - article-journal
 publication: '*Journal of the American Chemical Society*'
