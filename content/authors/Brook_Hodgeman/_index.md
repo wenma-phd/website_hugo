@@ -10,7 +10,7 @@ last_name: Hodgeman
 # superuser: true
 
 # Role/position
-role: Graduate Student
+role: Physics
 
 # Organizations/Affiliations
 organizations:

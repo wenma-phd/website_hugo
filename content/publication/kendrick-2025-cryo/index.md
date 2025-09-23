@@ -12,8 +12,8 @@ date: '2025-01-01'
 publishDate: '2025-02-11T16:17:02.846594Z'
 publication_types:
 - article-journal
-publication: '*bioRxiv*'
+publication: '*Nature Structural \& Molecular Biology*'
 links:
 - name: URL
-  url: https://www.biorxiv.org/content/early/2024/10/13/2024.09.28.615567
+  url: https://doi.org/10.1038/s41594-025-01558-w
 ---

@@ -10,7 +10,7 @@ last_name: Cirne
 # superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Computer Science
 
 # Organizations/Affiliations
 organizations:

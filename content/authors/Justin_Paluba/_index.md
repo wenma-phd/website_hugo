@@ -10,7 +10,7 @@ last_name: Paluba
 # superuser: true
 
 # Role/position
-role: Graduate Student
+role: CMB
 
 # Organizations/Affiliations
 organizations:
