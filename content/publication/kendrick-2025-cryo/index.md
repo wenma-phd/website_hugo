@@ -1,13 +1,13 @@
 ---
 title: Cryo-EM visualizes multiple steps of dyneintextquoterights activation pathway
 authors:
-- Agnieszka A. Kendrick
-- Kendrick H. V. Nguyen
+- Agnieszka Kendrick
+- Kendrick Nguyen
 - Wen Ma
-- Eva P. Karasmanis
-- Rommie E. Amaro
-- Samara L. Reck-Peterson
-- Andres E. Leschziner
+- Eva Karasmanis
+- Rommie Amaro
+- Samara Reck-Peterson
+- Andres Leschziner
 date: '2025-01-01'
 publishDate: '2025-02-11T16:17:02.846594Z'
 publication_types:
