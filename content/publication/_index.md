@@ -1,6 +1,6 @@
 ---
 title: Selected Publications
-
+[Full publication list](https://scholar.google.com/citations?hl=en&user=TCCnrz8AAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
 # Listing view
 view: citation
 
