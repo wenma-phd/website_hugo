@@ -34,6 +34,7 @@ sections:
     content:
       title: News
       text: |
+          * **June, 2025**: Congratulations to Luke Crine on receiving the Physics Summer Research Award 2025, and to Tim Jia on receiving a 2025 LCOM (Larner College of Medicine) Summer Student Research Fellowship.  <br><br>
           * **May, 2024**: Dr. Ma won the Early Career Research Award from Cardiovascular Research Institute of Vermont (CVRI) ($10,000). His award has also been selected by the Board of Directors as the Martin M. LeWinter (MMLW) Early Career Investigator Award. <br><br>
           * **Feb, 2024**: Dr. Ma gave a Symposium-Select Talk, “Exploring Allosteric Regulation in Molecular Motors Through the Computational Microscope,” at the 68th Biophysical Society Meeting.
 
